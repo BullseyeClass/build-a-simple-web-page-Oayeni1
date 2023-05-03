@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(197, 197, 197);
+    padding: 2rem;
+    text-align: center;
+}
+h1{
+    margin-top: 5%;
+    padding-top: 2%;
+}
+img{
+    border: solid 1rem rgb(0, 0, 0);
+    width: 20%;
+}
+p{
+    margin: 0.2rem;
+}
+button{
+    background-color: rgb(4, 4, 68);
+    color: rgb(255, 255, 255);
+    padding: 0.3rem;
+}
+button:hover{
+    background-color: antiquewhite;
+    color: brown;
+}
